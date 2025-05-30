@@ -3,7 +3,7 @@
 Türk ifşa arşivinde bulunan son dönemde sosyal medyada gündem olan **Türk ifşa içeriklerini** arşivlemek ve kamuya açık bilgileri bir araya getirmek amacıyla oluşturulmuştur.  
 İçerikler yalnızca bilgilendirme, dijital analiz ve medya takibi amacı taşır.  
 
-[![Türk İfşa](https://resmim.net/cdn/2025/05/29/TCOJEI.jpg)](rb.gy/sppeka)
+[![Türk İfşa](https://resmim.net/cdn/2025/05/29/TCOJEI.jpg)](https:rb.gy/sppeka)
 
 ## 📂 Neler İçerir?
 
